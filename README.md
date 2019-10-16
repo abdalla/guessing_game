@@ -1,7 +1,7 @@
 # guessing_game
 Guessing Game - Studying Rust
 
-#Run
+# Run
 ```
 cargo run
 ```
